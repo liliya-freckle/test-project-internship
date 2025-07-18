@@ -1,10 +1,10 @@
 'user client'
 import React from 'react'
 
-const user-list = () => {
+const userList = () => {
   return (
     <div>user-list</div>
   )
 }
 
-export default user-list
+export default userList
